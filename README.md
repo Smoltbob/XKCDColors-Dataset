@@ -6,7 +6,7 @@ This data can be used to reproduce the results of our work in [Color inference f
 Dropbox [link](https://www.dropbox.com/s/pbkenpyreava3e3/XKCDcolors_balanced.zip?dl=0)
 
 ## Details
-This dataset is built using the data gathered by Randall Muntroe through his [color survey](https://blog.xkcd.com/2010/05/03/color-survey-results/).
+This dataset is built using the data gathered by Randall Munroe through his [color survey](https://blog.xkcd.com/2010/05/03/color-survey-results/).
 
 An additional processing is applied to obtain the dataset:
 - Filtering outliers and labels with less than 2000 occurences
